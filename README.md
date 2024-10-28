@@ -1,1 +1,1 @@
-# ai-travel-planner-booking
+# AI Travel Planner & Booking
