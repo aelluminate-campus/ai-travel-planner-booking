@@ -1,1 +1,3 @@
 # AI Travel Planner & Booking
+
+This project is a travel planner and booking system that uses AI to help users plan their trips. The system will provide users with a list of destinations based on their preferences and budget. Users can then select a destination and the system will provide them with a list of activities and accommodations in that destination. Users can then book their trip through the system.
